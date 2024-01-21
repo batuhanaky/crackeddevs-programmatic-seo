@@ -15,3 +15,9 @@ In our journey, we will:
 - Dynamically populate the templates and generate Programmatic SEO pages for CrackedDevs.
 
 You may run the code using Google Colab:
+
+<a target="_blank" href="https://colab.research.google.com/github/batuhanaky/crackkeddevs-programmatic-seo/crackeddevs_seo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+CrackedDevs Hackathon 2024 - Participant Batuhan Akyazı
