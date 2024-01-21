@@ -14,7 +14,7 @@ In our journey, we will:
 - Generate human-friendly unique templates using LLMs.
 - Dynamically populate the templates and generate Programmatic SEO pages for CrackedDevs.
 
-You may run the code using Google Colab **Please edit the API KEY variables**:
+You may run the code using Google Colab (**Please edit the API KEY variables**):
 
 <a target="_blank" href="https://colab.research.google.com/github/batuhanaky/crackkeddevs-programmatic-seo/crackeddevs_seo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
