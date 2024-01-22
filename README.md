@@ -16,7 +16,7 @@ In our journey, we will:
 
 You may run the code using Google Colab (**Please edit the API KEY variables**):
 
-<a target="_blank" href="https://colab.research.google.com/github/batuhanaky/crackkeddevs-programmatic-seo/crackeddevs_seo.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/batuhanaky/crackeddevs-programmatic-seo/blob/main/crackeddevs_seo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
